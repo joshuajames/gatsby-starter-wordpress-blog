@@ -33,7 +33,7 @@ module.exports = {
     },
 
     /**
-     * We need this plugin so that it adds the "File.publicURL" to our site
+     * We need this plugin so that it adds the "File.publicURL"npm to our site
      * It will allow us to access static url's for assets like PDF's
      *
      * See https://www.gatsbyjs.org/packages/gatsby-source-filesystem/ for more info
